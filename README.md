@@ -1,7 +1,7 @@
 # agent-framework-benchmark
 Benchmark: LangGraph vs CrewAI vs AutoGen on 107 real data engineering tasks. Success rate, token cost, latency, boilerplate — all measured. LangGraph wins.
 # Agent Framework Benchmark
-### LangGraph vs CrewAI vs AutoGen — 107 Real Data Engineering Tasks
+### LangGraph vs CrewAI vs AutoGen — 24 Real Data Engineering Tasks
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -36,7 +36,7 @@ Full results: [Google Sheets leaderboard](https://docs.google.com/spreadsheets/d
 
 ## Task Categories
 
-107 tasks across 6 real DE categories:
+24 unique tasks with 107 tasks across 6 real DE categories:
 
 - **SQL Generation** (24 tasks) — window functions, CTEs, complex aggregations
 - **Pipeline Debugging** (19 tasks) — broken PySpark, schema mismatches, dropped rows  
